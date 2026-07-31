@@ -1,0 +1,4 @@
+interface:
+  display_name: "宝宝助手"
+  short_description: "用自然语言记录、查询、更正和汇总宝宝的家庭照护日志"
+  default_prompt: "使用 $baby-care-assistant 记录宝宝刚刚的喂养、睡眠或其他照护情况。"
